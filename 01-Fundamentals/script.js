@@ -168,10 +168,10 @@
 // const myAge = 32;
 // logger(myAge);
 
-// const calcAge = function (birthYear) {
-//   let age = 2023;
-//   console.log(age - birthYear);
-// };
+const calcAge = function (birthYear) {
+  let age = 2023;
+  console.log(age - birthYear);
+};
 
 // Arrow Function
 // const calcAge = (birthYear) => {
@@ -184,7 +184,9 @@
 // Introduction to Arrays
 // a list of items
 // const friends = new Array('Michael', 'Steven', 'John');
+
 const friends = ['Michael', 'Steven', 'Jane', 'Peter'];
+
 // console.log(friends);
 
 // console.log(friends[0]);
